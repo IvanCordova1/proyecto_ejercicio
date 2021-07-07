@@ -1,0 +1,67 @@
+
+
+
+.cartas{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 15%;
+
+}
+
+.cupon{
+    
+    margin-top: 1% ;
+    margin-bottom:2%;
+}
+
+.fondoverde{
+    background-color: #28a745;
+}
+
+.fondoblanco{
+    background-color: #fff;
+}
+
+.letritas {
+    font-family: 'Roboto', sans-serif;}
+
+.oferta
+{font-family: 'Roboto', sans-serif; 
+    font-weight: 500 medium;
+    color: #28a745 !important;
+    text-align: center;
+    font-size: 17px;
+
+}/*cambiar el tamaño (preguntar) */
+
+.letrapeque
+{font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+    color: #707070 !important;   
+}
+
+.formulario{
+    background-color: #28a745;
+    text-align: center;
+    padding: 1%;
+}
+
+.itemformulario{
+ margin-bottom: 2%;   
+}
+
+.cupones {
+    color: #fff;
+}
+
+
+.letracupon{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 500 medium;
+    text-align: center;
+}
+
+.boton{
+   background-color: #F8F9FA; 
+}
